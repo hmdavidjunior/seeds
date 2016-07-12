@@ -7,6 +7,10 @@
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --history-api-fallback",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hmdavidjunior/seeds/webpack-seed-project"
+  },
   "author": "Hermes David Junior",
   "license": "ISC",
   "devDependencies": {
